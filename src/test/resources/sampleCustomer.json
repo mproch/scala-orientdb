@@ -1,0 +1,30 @@
+[{
+    "name":"Maciek",
+    "pesel":"830204485343",
+    "address":{
+        "street":"Popularna",
+        "city":"Warsaw"
+    },
+    "contactDetails":{
+        "email":"mproch@gazeta.pl",
+        "phone":"12345678"
+    },
+    "labels":["lazy","nice"]
+},
+
+{
+    "name":"Maciek",
+    "pesel":"830204485343",
+    "friends":["#9:0","#9:2"],
+    "saleAgent":"#10:2",
+    "address":{
+        "street":"Popularna",
+        "city":"Warsaw"
+    },
+    "contactDetails":{
+        "email":"mproch@gazeta.pl",
+        "phone":"12345678"
+    },
+    "labels":["lazy","nice"]
+}
+]
